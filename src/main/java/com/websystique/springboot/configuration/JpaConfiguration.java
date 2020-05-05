@@ -34,6 +34,7 @@ import com.zaxxer.hikari.HikariDataSource;
 public class JpaConfiguration {
 
 	@Autowired
+
 	private Environment environment;
 
 	@Value("${datasource.sampleapp.maxPoolSize:10}")
@@ -80,6 +81,7 @@ public class JpaConfiguration {
 		factoryBean.setJpaVendorAdapter(jpaVendorAdapter());
 		factoryBean.setJpaProperties(jpaProperties());
 		return factoryBean;
+//return null;
 	}
 
 	/*
