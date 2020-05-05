@@ -7,7 +7,7 @@
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>SpringBootCRUDApplicationExample</name>
+	<name>SpringBootCRUDApplicationExampleTest</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
