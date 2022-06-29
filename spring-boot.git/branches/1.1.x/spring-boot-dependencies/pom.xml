@@ -81,7 +81,7 @@
 		<jetty.version>8.1.16.v20140903</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<joda-time.version>2.3</joda-time.version>
-		<jolokia.version>1.2.3</jolokia.version>
+		<jolokia.version>1.6.1</jolokia.version>
 		<json-path.version>0.9.1</json-path.version>
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.11</junit.version>
