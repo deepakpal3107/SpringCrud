@@ -65,7 +65,7 @@
 		<javassist.version>3.18.1-GA</javassist.version> <!-- Same as Hibernate -->
 		<jetty.version>8.1.14.v20131031</jetty.version>
 		<joda-time.version>2.3</joda-time.version>
-		<jolokia.version>1.2.0</jolokia.version>
+		<jolokia.version>1.6.1</jolokia.version>
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.11</junit.version>
 		<lettuce.version>2.3.3</lettuce.version>
